@@ -1,0 +1,98 @@
+html{ width:100%; padding:0; margin:0; color:#000;}
+body{ width:100%; max-width:1920px; background: #e7e7e7;}
+
+
+#container{ width:1020px; margin:0 auto; padding: 60px 0; }
+.footer{ width: 100%; max-width:1920px; background: #000; height: 106px; color: #fff; line-height:200%;}
+.footer{text-align: center;}
+.footer span{ padding: 0 8px;}
+.con_footer li{ width:190px; text-align: center;}
+.con_footer{ width: 380px; margin: 0 auto; padding: 20px 0 10px 0;}
+.footer p{ font-weight: bold; padding-top: 20px;}
+.footer a{ color: #fff;}
+.con_rjwy{ display:none;}
+.m_pxap{ display:none;}
+
+.banner_jcdzs2020{ background:url(banner_jcdzs2020.jpg) no-repeat; margin:0 auto; height:468px; font-size:0;}
+.con_news_jcdzs2020{ font-size:20px;  line-height:200%; margin-bottom:40px;}
+.con_sysm_jcdzs2020 img{ float:left;}
+.con_sysm_jcdzs2020 img:first-child{ margin-right:3px;}
+.list_sjzl_jcdzs2020{ margin-top:60px;}
+.list_sjzl_jcdzs2020 h5{ height:36px; line-height:36px; background:url(bg_title_jcdzs2020.png) no-repeat; padding-left:26px; color:#fff; font-size:18px;}
+.list_sjzl_jcdzs2020 ul{ padding-left:310px;}
+.list_sjzl_jcdzs2020 li{ margin:30px 0; font-size:20px; background:url(cor_syffl_jcdzs2020.jpg) left center no-repeat; padding-left:40px;}
+.list_sjzl_jcdzs2020 li a{ color:#000;}
+.list_sjzl_jcdzs2020 li a:hover{ color:#0a6cc7;}
+#container h3{ font-size:20px; font-weight:bold; margin:0 0 40px 0; text-align:center;}
+.content_jcdzs2020 { font-size:18px; line-height:200%;}
+.content_jcdzs2020 p{ margin-bottom:20px;}
+.con_title_jcdzs2020{ height:24px; font-size:18px; color:#0a6cc7; position:relative; border-top:2px solid #0a6cc7;}
+.con_title_jcdzs2020 h4{ height:24px; font-size:24px; font-weight:bold; text-align:center; color:#0a6cc7; padding:0 18px; position:absolute; top:-18px; left:50%; background:#e7e7e7; z-index:10;}
+.con_list_jcdzs2020 ul{ margin-top:24px;}
+.con_list_jcdzs2020 li{ width:158px; font-size:0; margin-left:14px;}
+.con_list_jcdzs2020 ul li:first-child{ margin-left:0;}
+.con_list_jcdzs2020 h6{ font-size:18px; text-align:center; padding-top:16px;}
+.con_list_jcdzs2020 h6 a{ color:#000;}
+.con_list_jcdzs2020 h6 a{ color:#000;}
+.con_list_jcdzs2020 h6 a:hover{ color:#0a6cc7;}
+
+.con_list_jcdzs2020{ margin-bottom:60px;}
+.p_b_0{ padding-bottom:0 !important;}
+
+.container_title_jcdzs2020{ background: url(bg_title_jcdzs2020.jpg) left top repeat-x; height: 36px; position: relative; margin-bottom: 20px;}
+.container_title_jcdzs2020 h5{ position: absolute; left: 0; top: 0; background: url(bg_title_r_jcdzs2020.jpg) top right no-repeat #1c8cf5; padding-right: 36px; }
+.list_sjzl_jcdzs2020 ul{ padding-left: 0;}
+.list_sjzl_jcdzs2020 li{ width: 410px; padding-left: 100px; background-position: 70px; margin: 20px 0;}
+.con_type_link_jcdzs2020{ height: 24px; line-height: 24px; font-size: 14px; color: #fff; text-align: center; margin-top: 10px;}
+.con_type_link_jcdzs2020 a{ display: inline-block; width: 58px;  height: 22px; line-height: 22px; text-align: center; background: #4d98dd; font-size: 14px; border: 1px solid #4d98dd ;color: #fff; margin: 0 7px; padding: 0;}
+.con_type_link_jcdzs2020 a.btn_type_dl{ background: #cee3f6; color: #2881d3;}
+.con_current_jcdzs2020{ text-align: right; position: relative; top: -20px; margin-bottom: 30px; color: #000;} 
+.con_current_jcdzs2020 a{ color: #000;}
+.con_current_jcdzs2020 span{ padding: 0 8px;}
+
+.con_faq_jcdzs2020{ text-align: center; margin-top: 50px;}
+.con_faq_jcdzs2020 img{ margin: 0 20px;}
+
+.con_listwz_jcdzs2020{ padding-bottom: 40px;}
+.con_listwz_jcdzs2020 ul{ margin-top: 20px;}
+.con_listwz_jcdzs2020 li{ width:470px; padding-left: 20px; background: url(dot_jcdzs2020.png) left center no-repeat; margin-left: 20px}
+.con_listwz_jcdzs2020 li a{ color: #000000;}
+
+@media screen and (max-width: 1024px) {
+	.hide_cp{ display:none !important;}
+	html,body{ height:auto; font-size:1em;}
+	#container { width: 92%; height:auto; padding:4%;}
+	.m_pxap{ display: block;}
+	.footer{ background:#000000; color:#FFF; text-align:center; line-height:200%; padding:10px 0; font-size: 14px; height: auto;}
+	.footer a{ padding-right: 10px;}
+	
+	.banner_jcdzs2020{ background:none;; height:auto; }
+	.banner_jcdzs2020 img{ width:100%;}
+	.con_news_jcdzs2020{  margin-bottom:20px;}
+	.con_sysm_jcdzs2020 img{ width:100%; margin: 0 0 10px 0;}
+	.list_sjzl_jcdzs2020{ margin-top:30px;}
+	.container_title_jcdzs2020{ background: none;}
+	.list_sjzl_jcdzs2020 h5{ line-height:200%; background:none; text-align:center; color:#0a6cc7; font-size:1.25em; font-weight:bold; position: static;}
+	.list_sjzl_jcdzs2020 ul{ padding-left:0px;}
+	.list_sjzl_jcdzs2020 li{ font-size:1em; padding-left:30px; width: 100%; background-position: 0px; margin: 10px 0;}	
+
+	#container h3{ font-size:1.25em;  margin:0 0 20px 0; }
+	.content_jcdzs2020 { font-size:1.125em; }
+	.content_jcdzs2020 p{ margin-bottom:10px;}
+	
+	.con_title_jcdzs2020{ height:auto; font-size:1.25em; color:#c30d23; border-top:none;}
+	.con_title_jcdzs2020 h4{ height:auto; position:relative; top:auto; left:auto; text-align:center; margin-bottom:20px; }
+
+	.con_list_jcdzs2020 ul{ margin-top:12px;}
+	.con_list_jcdzs2020 li{ width:48%; font-size:0; margin-left:2%; text-align:center; margin-bottom:20px;}
+	.con_list_jcdzs2020 ul li:first-child{ margin-left:2%;}
+	.con_list_jcdzs2020 h6{ font-size:18px; padding-top:8px;}
+	.con_list_jcdzs2020{ margin-bottom:30px;}
+	
+	.con_faq_jcdzs2020{ margin-top: 30px;}
+	.con_faq_jcdzs2020 img{ width: 100%; margin: 0 0 2em 0;}
+	
+	.con_listwz_jcdzs2020 ul{ margin: 0;}
+	.con_listwz_jcdzs2020 li{ width: 100%; padding-left: 1em;  margin: 0 0 1em 0;}	
+
+}
